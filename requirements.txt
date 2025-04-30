@@ -1,0 +1,7 @@
+diffusers==0.24.0
+numpy==1.26.2
+pandas==2.1.4
+torch==2.2.0
+image-reward
+clip @ git+https://github.com/openai/CLIP.git
+open_clip_torch

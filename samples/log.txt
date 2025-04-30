@@ -1,0 +1,3 @@
+Logging to /home/teaching/adaptive-diffusion/samples
+loading the original SD model from runwayml/stable-diffusion-v1-5
+Sampling timesteps are not provided. The steps will be selected uniformly.
