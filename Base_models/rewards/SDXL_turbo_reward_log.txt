@@ -1,0 +1,501 @@
+Image 0 | Score: -0.1512 | Prompt: Green commercial building with refrigerator and refrigeration units outside.
+Image 1 | Score: 1.0355 | Prompt: An airplane with two propellor engines flying in the sky.
+Image 2 | Score: -0.4627 | Prompt: Four cows in a pen on a sunny day 
+Image 3 | Score: 0.2774 | Prompt: Three dogs sleeping together on an unmade bed
+Image 4 | Score: 0.6697 | Prompt: A baseball card with an old school player.
+Image 5 | Score: -1.6864 | Prompt: A woman holding a cake is looking at an excited child in a high chair. 
+Image 6 | Score: 0.6767 | Prompt: A dish on a counter containing beef and broccoli.
+Image 7 | Score: -0.2734 | Prompt: A big rig is driving through a construction site. 
+Image 8 | Score: 1.6449 | Prompt: A boy wearing an orange t-shirt playing a video game while sitting on a couch.
+Image 9 | Score: 1.0158 | Prompt: a woman holding a frisbee standing net to table and chairs.
+Image 10 | Score: 0.9302 | Prompt: A busy street with a streetlight and lots of cars.
+Image 11 | Score: 1.3336 | Prompt: This is a computer monitor, keyboard, and mouse.
+Image 12 | Score: 0.0970 | Prompt: a plate with  a sandwich, fires, and coleslaw sitting side by side
+Image 13 | Score: 0.9165 | Prompt: A man standing near an extended tour bus parked in a parking lot.
+Image 14 | Score: -0.1232 | Prompt: A room in a private house for loosening up and institutionalizing.
+Image 15 | Score: -0.1733 | Prompt: A bathroom with a white toilet and shower
+Image 16 | Score: 0.5347 | Prompt: A plate filled with a serving of food to be eaten
+Image 17 | Score: 0.3591 | Prompt: A bunch of cows caged in at a factory
+Image 18 | Score: 0.4176 | Prompt: A young lady is on her phone as a lady in the background looks on. 
+Image 19 | Score: -1.0803 | Prompt: a toilet with the toilet seat left up and the sink next to it
+Image 20 | Score: 0.6852 | Prompt: The white fridge stands alone in its own space.
+Image 21 | Score: 0.4756 | Prompt: A cartoon character standing on the beach by a surf boards standing in the sand.
+Image 22 | Score: -0.4594 | Prompt: A snowboarder headed down a hill in front of trees.
+Image 23 | Score: 0.5960 | Prompt: A woman and two dogs are skiing in snow.
+Image 24 | Score: -1.0684 | Prompt: Two people walking in the ocean away from a boat. 
+Image 25 | Score: -0.1476 | Prompt: A dog sleeps on the ground in someones bedroom.
+Image 26 | Score: 0.0601 | Prompt: A boys skateboarding is about to slide on a pole.
+Image 27 | Score: -0.0540 | Prompt: A tennis match in progress with one of the contestants throwing the ball into the air getting ready to serve.
+Image 28 | Score: 0.4009 | Prompt: Three zebras eating hay from a trough at the zoo.
+Image 29 | Score: 1.7828 | Prompt: A woman sitting on a bench overlooking a body of water.
+Image 30 | Score: 0.6991 | Prompt: A man riding a horse next to another man on a horse.
+Image 31 | Score: 1.3272 | Prompt: a tray of food on a wooden table with bread, carrots, sauce, nuts and a muffin.
+Image 32 | Score: 0.5867 | Prompt: a blue motorcycle is standing out in the open
+Image 33 | Score: 1.3093 | Prompt: A big furry black and white cat is sitting on top of a leather suitcase.
+Image 34 | Score: 1.1552 | Prompt: A person flying a kite at the beach with another person.
+Image 35 | Score: 0.5344 | Prompt: Woman bent slightly on skis wearing goggles and snowsuit.
+Image 36 | Score: 1.6151 | Prompt: A bed that has a large painting behind it.
+Image 37 | Score: 0.2997 | Prompt: A small pizza on a plate with a fork beside it on a table.
+Image 38 | Score: 1.0280 | Prompt: A plate of food that includes rice and various vegetables.
+Image 39 | Score: 1.9034 | Prompt: A bearded man in a wetsuit holding a surfboard. 
+Image 40 | Score: 1.8224 | Prompt: A young man holding a walkie talkie while wearing an orange shirt.
+Image 41 | Score: 1.8604 | Prompt: A man smiles while holding a wine glass
+Image 42 | Score: 1.2959 | Prompt: a stop sign and no outlet sign by a snowy mountain
+Image 43 | Score: -0.0335 | Prompt: A women who is holding up a cell phone.
+Image 44 | Score: 1.5932 | Prompt: A tray of scissors is on a table with a lamp and candles.
+Image 45 | Score: -1.1230 | Prompt: a man looking at a cell phone with a magnifying lens
+Image 46 | Score: -0.0541 | Prompt: Jet airplane in flight landing gear extended down
+Image 47 | Score: 1.7214 | Prompt: A man is looking through a selection of ties.
+Image 48 | Score: -0.7829 | Prompt: A may laying in on a bed with his right breasteses hanging out.
+Image 49 | Score: 0.5650 | Prompt: Various fruits and vegetables are on display close together.
+Image 50 | Score: 0.8229 | Prompt: A kitchen filled with a wooden cabinet and a large window.
+Image 51 | Score: 1.4741 | Prompt: A boy is walking with a wet suit and carrying his surf board under his arm.
+Image 52 | Score: 1.6707 | Prompt: A sculpture of iron standing in front of a tall white building.
+Image 53 | Score: 0.8260 | Prompt: A double deck bus that is next to a building.
+Image 54 | Score: 1.9046 | Prompt: Two donuts, banana, cup and a book on the table.
+Image 55 | Score: 1.7473 | Prompt: A container with three sections, each containing different fruits and vegetables.
+Image 56 | Score: 1.2351 | Prompt: A plate with hot dogs and cherry tomatoes 
+Image 57 | Score: 0.3832 | Prompt: The elephant is walking around in the park.
+Image 58 | Score: 1.6465 | Prompt: A green truck traveling down a road with a wooden flatbed.
+Image 59 | Score: 1.1689 | Prompt: A group of vegetables on top of  a dark surface.
+Image 60 | Score: 0.6239 | Prompt: Female tennis player about to hit the ball
+Image 61 | Score: 0.9811 | Prompt: a man that is on a skateboard that is on a ramp
+Image 62 | Score: 0.0801 | Prompt: Two people are standing in snow carrying ski poles and skis on their shoulders. 
+Image 63 | Score: 1.1966 | Prompt: a jockey is seen riding his horse on a grass field 
+Image 64 | Score: 0.6871 | Prompt: A bathroom with no walls and a toilet bowl
+Image 65 | Score: 0.7344 | Prompt: A group of lawn chairs sitting on top of a beach.
+Image 66 | Score: 1.3708 | Prompt: A city square decorated with a tree and lights
+Image 67 | Score: 0.1936 | Prompt: A dog sits on a tennis court next to tennis equipment. 
+Image 68 | Score: 1.6311 | Prompt: a group of people watching giraffes in the zoo
+Image 69 | Score: 1.8075 | Prompt: A plate with spaghetti, red sauce, broccoli and a coca cola on the side.
+Image 70 | Score: 0.6978 | Prompt: A plate of food with a fried egg and colorful vegetables.
+Image 71 | Score: -0.9515 | Prompt: A plastic fork on top of a lid sitting on a bench.
+Image 72 | Score: 0.9205 | Prompt: A man brushing his teeth in the bathroom.
+Image 73 | Score: 0.3853 | Prompt: A group of friends sitting inside their living room.
+Image 74 | Score: 1.6118 | Prompt: Motorcycles are riding down the road toward the sun. 
+Image 75 | Score: 1.5526 | Prompt: A vase filled with purple flowers and green plants.
+Image 76 | Score: 1.5372 | Prompt: This room has a bed with blue sheets and a large bookcase
+Image 77 | Score: 0.5433 | Prompt: A street with traffic lights, wall and buildings.
+Image 78 | Score: 1.2118 | Prompt: A very young boy and girl holding Wii controllers playing a video game.
+Image 79 | Score: 1.1684 | Prompt: the person is on his skateboard going up the ramp 
+Image 80 | Score: 1.3029 | Prompt: Three cakes are sitting in a row on a bakery table.
+Image 81 | Score: 1.6689 | Prompt: Two horses are standing behind a stone wall.
+Image 82 | Score: 0.7805 | Prompt: A compilation of pictures of old bathroom fixtures.
+Image 83 | Score: 1.3746 | Prompt: A bunch of kids standing on top of a skateboarding ramp.
+Image 84 | Score: 1.6172 | Prompt: a close up of some motorcycles parked on a grassy field
+Image 85 | Score: 1.0427 | Prompt: A group of horse racers approaching a turn on the track.
+Image 86 | Score: 1.1615 | Prompt:  A young boy balancing himself on his skateboard.
+Image 87 | Score: 1.7642 | Prompt: a woman with a hat swinging a tennis racquet
+Image 88 | Score: 1.5676 | Prompt: There are many cars driving along the road at night.
+Image 89 | Score: -1.0668 | Prompt: Several black and white sheep near a sofa in a field.
+Image 90 | Score: 1.5869 | Prompt: A couple of motor bikes parked on top of a green surface.
+Image 91 | Score: 0.9883 | Prompt: Cat standing next to rocking chair on sheets with walls
+Image 92 | Score: 1.6230 | Prompt: a couple of plants sit in front of a window 
+Image 93 | Score: 0.3456 | Prompt: A bird stands on rocks across the water from a lighthouse.
+Image 94 | Score: 1.5519 | Prompt: An open-air festival in India with umbrellas, women in saris, and an ascetic. 
+Image 95 | Score: 0.6033 | Prompt: Adults enjoying each others company in residential kitchen.
+Image 96 | Score: 0.6405 | Prompt: A tour bus is empty on a downtown road.
+Image 97 | Score: -1.2422 | Prompt: A person hitting a tennis ball on a court.
+Image 98 | Score: 0.6473 | Prompt: a couple of microwaves that are next to each other
+Image 99 | Score: 0.6668 | Prompt: A professional tennis player hits a ball as fans watch.
+Image 100 | Score: 1.1568 | Prompt: some people boats and birds in the water
+Image 101 | Score: 1.3853 | Prompt: a couple of people are in line at a vendor
+Image 102 | Score: -0.1944 | Prompt: A man smiles as he moves through the snow holding ski poles. 
+Image 103 | Score: 1.9558 | Prompt: Graffiti of a basketball player holding an umbrella
+Image 104 | Score: 1.7803 | Prompt: A green and white rain next to a phone booth.
+Image 105 | Score: 1.7695 | Prompt: A row of black chairs against a red wall with a clock.
+Image 106 | Score: 1.8105 | Prompt: there is a fire hydrant that is painted all silver
+Image 107 | Score: 1.5413 | Prompt: A orange is hanging on a branch on the tree.
+Image 108 | Score: 0.0484 | Prompt: The toilet is clean and ready for customers to use.
+Image 109 | Score: 1.5188 | Prompt: Six large suitcases stacked up against the wall.
+Image 110 | Score: 0.3302 | Prompt: A bathroom with a toilet and a striped shower curtain.
+Image 111 | Score: 1.0305 | Prompt: A city at night with people walking around.
+Image 112 | Score: -0.3024 | Prompt: A hand is lifting up the top bread of a sub sandwich.
+Image 113 | Score: 0.7207 | Prompt: A herd of cattle grazing on the side of a hill.
+Image 114 | Score: -0.2486 | Prompt: A girl is washing grapes in a sink.
+Image 115 | Score: 1.2488 | Prompt: A woman preparing food for cooking in her kitchen.
+Image 116 | Score: 1.3871 | Prompt: a man standing on a tennis court while people watch him 
+Image 117 | Score: 1.1617 | Prompt: A pizza with bacon bits and spinach leaves on it.
+Image 118 | Score: -0.1820 | Prompt: Fruit, including oranges, apples and lemons, sits underneath hanging bananas.
+Image 119 | Score: -0.1704 | Prompt: Adult elephant standing close to a baby elephant 
+Image 120 | Score: 0.2971 | Prompt: A photograph of a kitchen inside a house.
+Image 121 | Score: 1.5985 | Prompt: a room with many screen and a very big map
+Image 122 | Score: 1.3381 | Prompt: A man wearing a collar shirt with a blue tie
+Image 123 | Score: 1.6107 | Prompt: a living room with a bright red couch next to a yellow wall 
+Image 124 | Score: 1.4066 | Prompt: Two ducks swim in a pond with green water.
+Image 125 | Score: 1.6639 | Prompt: A stuffed monkey that is sitting on some boxes.
+Image 126 | Score: 1.1566 | Prompt: Cars are parked in the lot of a gas station.
+Image 127 | Score: -0.2742 | Prompt: a little dog checking out a pet bed
+Image 128 | Score: 0.3935 | Prompt: A couple Of Girls are playing a soccer game
+Image 129 | Score: 0.7339 | Prompt: a peice of carrot cake that is on a plate
+Image 130 | Score: 1.4240 | Prompt: Boats are docked in a lake by a road.
+Image 131 | Score: 1.5263 | Prompt: A bed with white and gray bedding and netting overhead.
+Image 132 | Score: 1.0536 | Prompt: A group of flamingos standing next to each other in water.
+Image 133 | Score: -0.3360 | Prompt: Snow covered picnic benches overlooking a parking lot.
+Image 134 | Score: 0.1863 | Prompt: People preparing to ski down a snow covered slope.
+Image 135 | Score: 1.4216 | Prompt: Two men look down into a computer monitor on a desk.
+Image 136 | Score: 1.7791 | Prompt: A man in a brown shirt helping a lady with a Nintendo Wii controller.
+Image 137 | Score: 0.8422 | Prompt: A dog sitting upright with its hands on a laptop.
+Image 138 | Score: 1.3546 | Prompt: A table has colorful flowers and food on it.
+Image 139 | Score: 0.5844 | Prompt: A person grabbing a slice of pizza from a pizza box.
+Image 140 | Score: 1.6997 | Prompt: A dog is in the air with a frisbee in its mouth
+Image 141 | Score: 0.5455 | Prompt: a bunch of wine bottles sit on top of a table 
+Image 142 | Score: 1.2222 | Prompt: Two vases of fresh flowers sit on top of the table.
+Image 143 | Score: 1.8270 | Prompt: A close up of a red and black bird on a rock.
+Image 144 | Score: 0.4946 | Prompt: the edge of a sink with a toothbrush floss and lotion
+Image 145 | Score: 1.7519 | Prompt: Many people walk on the narrow street underneath many strings with flags on them.
+Image 146 | Score: -0.6772 | Prompt: Large white bathroom showing sink, tub, TV, and countertops.
+Image 147 | Score: 0.8346 | Prompt: A pile of different types of vegetables on top of each other.
+Image 148 | Score: 0.4154 | Prompt: A cat on a chair holding a remote control.
+Image 149 | Score: 1.7920 | Prompt: A blurry shot of someone on a bicycle holding an umbrella 
+Image 150 | Score: 0.7680 | Prompt: A man riding on a skateboard up on to a ledge.
+Image 151 | Score: 0.1822 | Prompt: a woman is out on a court playing tennis
+Image 152 | Score: 0.4055 | Prompt: Two beds with decorative wooden headboard and foot board, one is a double and one is a single
+Image 153 | Score: 0.2391 | Prompt: There is a young boy throwing a baseball
+Image 154 | Score: -0.2888 | Prompt: a close up of a person holding an electronic device
+Image 155 | Score: -0.0533 | Prompt: many bikes parked on a fence near the street
+Image 156 | Score: 1.1923 | Prompt: A man and a woman eating dinner at a table.
+Image 157 | Score: 1.4486 | Prompt: The man has a green coat and blue tie. 
+Image 158 | Score: 1.4594 | Prompt: rusted scissors out in the field with grass growing around it.
+Image 159 | Score: 0.1988 | Prompt: A man standing by a large air gondola that is docked in a station
+Image 160 | Score: 0.7426 | Prompt: A blue, yellow and red train driving through on a train track. 
+Image 161 | Score: 0.9315 | Prompt: a couple of elephants walking off a path
+Image 162 | Score: 1.1354 | Prompt: a woman is standing outside with an umbrella
+Image 163 | Score: 0.3285 | Prompt: Bundles of rope are on a cart in front of a train.
+Image 164 | Score: 0.1659 | Prompt: Two men play against each other in Wii Bowling.
+Image 165 | Score: 1.7234 | Prompt: An orange trolley is on the street next to a building with a lot of windows.
+Image 166 | Score: 1.9002 | Prompt: a woman sitting on a suitcase at the end of a motor home 
+Image 167 | Score: 0.3012 | Prompt: A man taking a photo of food on a table.
+Image 168 | Score: 1.3680 | Prompt: A woman sleeping on a plane with a window view of the wing.
+Image 169 | Score: -0.5413 | Prompt: Windows are open on the back of a truck. 
+Image 170 | Score: 1.0365 | Prompt: Here is a scale weighing a tan piece of luggage.
+Image 171 | Score: -0.7999 | Prompt: A vase in a case next to other items. 
+Image 172 | Score: -0.8373 | Prompt: A man holding a Nintendo Wii game controller.
+Image 173 | Score: 1.8423 | Prompt: Two women sitting on a blanket looking at cellular phones.
+Image 174 | Score: 0.1423 | Prompt: The person was standing on the snow skiing course in his skis.
+Image 175 | Score: 0.4570 | Prompt: people walking in snow on a ski slope
+Image 176 | Score: 1.2347 | Prompt: A young child holds a hair dryer to her hair.
+Image 177 | Score: 0.0709 | Prompt: a bunch of people are together in the snow 
+Image 178 | Score: -0.0350 | Prompt: The man looks up at a small child sitting on a refrigerator.
+Image 179 | Score: 1.2298 | Prompt: A market display case filled with different colored vegetables.
+Image 180 | Score: 0.7303 | Prompt: Two sings that are in a bathroom underneath a mirror.
+Image 181 | Score: 1.3601 | Prompt: Two adult bears play fight in the water.
+Image 182 | Score: 1.5698 | Prompt: Vase with a handle containing flowers sitting on table. 
+Image 183 | Score: 0.2086 | Prompt: A vase full of flowers sitting beside a blue piece of pottery.
+Image 184 | Score: 0.2896 | Prompt: A man showing off a toothbrush and other toiletries.
+Image 185 | Score: 1.5330 | Prompt: A woman looking down at a set of luggage to her right.
+Image 186 | Score: 0.6240 | Prompt: Three people stand in front of the giraffe zoo section.
+Image 187 | Score: 0.6670 | Prompt: A lone skier is skiing down a path.
+Image 188 | Score: 1.6276 | Prompt: A man is riding in a horse drawn carriage
+Image 189 | Score: 1.9265 | Prompt: a white dog is standing in a small boat
+Image 190 | Score: 0.0522 | Prompt: A couple laying under an umbrella at a park.
+Image 191 | Score: 0.0267 | Prompt: A man holding a white object in his hand.
+Image 192 | Score: 1.9263 | Prompt: A flock of doves and a man sitting in a park.
+Image 193 | Score: 1.0495 | Prompt: This image is of a batter taking a swing during a baseball game.
+Image 194 | Score: 1.9343 | Prompt: A silver fire hydrant at night with trash all around it
+Image 195 | Score: 0.8502 | Prompt: Four zebras are grazing on grass in a pasture.
+Image 196 | Score: 1.6327 | Prompt: A cat sitting on top of a suitcase on a bed.
+Image 197 | Score: 0.9159 | Prompt: A train sitting next to a platform in a tunnel.
+Image 198 | Score: 1.2531 | Prompt: The unnatural looking stance of a professional baseball pitcher
+Image 199 | Score: 1.4299 | Prompt: A small, neat and clean yellow bathroom set up.
+Image 200 | Score: -0.7171 | Prompt: A bathroom with a toilet, a urinal and a sink, all white
+Image 201 | Score: 0.9906 | Prompt: A cup with food and a fork sitting in it.
+Image 202 | Score: 0.0050 | Prompt: Two black elephants seem somewhat distant near the small lake. 
+Image 203 | Score: 1.6516 | Prompt: Group of Nordic skiers in full gear, with packs, following in line across a landscape.
+Image 204 | Score: 1.1442 | Prompt: A train is coming down the track in Hawaii.
+Image 205 | Score: 0.2505 | Prompt: Construction workers use a bulldozer and truck to move dirt.
+Image 206 | Score: 1.9083 | Prompt: A man sitting on a wooden bench playing a guitar in a park.
+Image 207 | Score: 1.8872 | Prompt: A young man posing beside his red racing motorcycle.
+Image 208 | Score: 1.2921 | Prompt: A stop sign near a street corner by a tree
+Image 209 | Score: 1.1863 | Prompt: The horse carriage is driving down the street.
+Image 210 | Score: 0.8829 | Prompt: two women are playing video games and a couch
+Image 211 | Score: 1.0516 | Prompt: Four guys in a room playing with a wii.
+Image 212 | Score: 0.4240 | Prompt: A view of a clock tower from across the way.
+Image 213 | Score: -0.0962 | Prompt: An intersection with a stop sign and highway signs.
+Image 214 | Score: 1.7356 | Prompt: there is a memorial of roberto clemente next to a baseball field
+Image 215 | Score: 0.0212 | Prompt: A green street light in between two buildings.
+Image 216 | Score: 1.5427 | Prompt: A vine of red peppers hanging off a cabinet.
+Image 217 | Score: 1.4787 | Prompt: A cake with frosting sitting on a pedestal.
+Image 218 | Score: 0.5628 | Prompt: A herd of elephants walking across a grass field.
+Image 219 | Score: 0.6764 | Prompt: A red and yellow bus parked while a man walks by. 
+Image 220 | Score: 0.9410 | Prompt: A white high tech toilet with an open seat.
+Image 221 | Score: 1.3439 | Prompt: A bathroom has blue carpet and a tub.
+Image 222 | Score: 0.5967 | Prompt: a very larg pizza with some nice toppings on it
+Image 223 | Score: 1.7144 | Prompt: A woman is looking at sheep off in a field
+Image 224 | Score: 1.3340 | Prompt: A fighter jet flying through a  cloudy sky.
+Image 225 | Score: 0.3138 | Prompt: A variety of signs on a street corner.
+Image 226 | Score: -0.3105 | Prompt: A railroad train passing underneath an under pass.
+Image 227 | Score: 0.6991 | Prompt: Two elephants hold people and stand near a tree.
+Image 228 | Score: 1.0521 | Prompt: City bus going down the street in an urban setting
+Image 229 | Score: 0.6353 | Prompt: Door to take out restaurant on street corner.
+Image 230 | Score: 0.8655 | Prompt: A beer sits untouched on a table with other food
+Image 231 | Score: 1.5628 | Prompt: People are sitting on the sidewalk and relaxing by the river.
+Image 232 | Score: 1.6246 | Prompt: A little girl taking a bite out a a giant burger.
+Image 233 | Score: 0.5464 | Prompt: A herd of adult elephants with a baby elephant waling through a forest.
+Image 234 | Score: 1.1689 | Prompt: A baseball player taking  a swing at a ball
+Image 235 | Score: 0.2565 | Prompt: A hot fudge sundae with a red cherry on top. 
+Image 236 | Score: 1.7783 | Prompt: A man sitting on a bench holding a wooden guitar.
+Image 237 | Score: 0.3876 | Prompt: A woman catches a soccer ball during a game. 
+Image 238 | Score: 1.3327 | Prompt: A bicycle leaning on a building near a train track.
+Image 239 | Score: 1.4738 | Prompt: THERE ARE TELEPHONES THAT ARE ON DISPLAY 
+Image 240 | Score: 1.2353 | Prompt: A row of parked vehicles in front of a tall building.
+Image 241 | Score: 1.3005 | Prompt: The plate has broccoli and slices of tomato and onion.
+Image 242 | Score: 1.1805 | Prompt: three baseball players and one is hitting the ball
+Image 243 | Score: -0.7534 | Prompt: A building with a clock on the outside of it and a compass on top of it.
+Image 244 | Score: 1.0256 | Prompt: A cat lays its head on the laptop keyboard. 
+Image 245 | Score: 0.7973 | Prompt: A street scene looking at cars and an intersection in the background.
+Image 246 | Score: -0.0204 | Prompt: A person in a costume skiing down a snowy slope.
+Image 247 | Score: 0.0231 | Prompt: A striped cat is laying on a kitchen chair.
+Image 248 | Score: 1.0767 | Prompt: A male walking out of the water holding a surf board.
+Image 249 | Score: 1.7690 | Prompt: two benches near each other in a field near water 
+Image 250 | Score: 1.7697 | Prompt: black and white photo of boys playing on a street sidewalk
+Image 251 | Score: -0.3410 | Prompt: A group of zebra grazing grass with a backdrop of bushes.
+Image 252 | Score: 0.9711 | Prompt: Several young men playing a game of Frisbee together.
+Image 253 | Score: 0.7228 | Prompt: A large black and brown dog sitting in  a dog bead.
+Image 254 | Score: 0.7923 | Prompt: Two cats sleeping on top of a bed next to pillows.
+Image 255 | Score: 1.2994 | Prompt: A picture of a empty street very late at night.
+Image 256 | Score: 0.6168 | Prompt: A large clock is underneath the sign of a spacious station.
+Image 257 | Score: 0.6695 | Prompt: A bathroom with a toilet, sink, and shower.
+Image 258 | Score: 0.8433 | Prompt: A baseball cap and catchers mitt sitting on the ground.
+Image 259 | Score: 0.4582 | Prompt: Two zebras are looking at the plants on the ground.
+Image 260 | Score: 0.5751 | Prompt: A group of young men and women sitting at a table.
+Image 261 | Score: 1.7456 | Prompt: A man in a purple shirt holding a soccer ball next to other soccer players.
+Image 262 | Score: 1.0266 | Prompt: A cat laying down in a open suitcase on a bed.
+Image 263 | Score: 1.5749 | Prompt: a cheese pizza cut into many slices on a table
+Image 264 | Score: 1.1183 | Prompt: A group of people standing outside of a white store.
+Image 265 | Score: 0.1803 | Prompt: A white sink and toilet in a room.
+Image 266 | Score: 0.4777 | Prompt: There is toothpaste on the bristles of a pink toothbrush on the counter in front of a sculpture made of miniature Amazon boxes.
+Image 267 | Score: 1.7080 | Prompt: A person riding a bike next to a large body of water.
+Image 268 | Score: -0.4476 | Prompt: A pizza cutter is designed to look like the Enterprise
+Image 269 | Score: 1.8600 | Prompt: an old man with a white dog on a leash and a bench
+Image 270 | Score: 1.0930 | Prompt: A skillet of food has broccoli as one of its ingredients.
+Image 271 | Score: 1.3702 | Prompt: A child holding a Motorola cell phone in its hand 
+Image 272 | Score: 0.6254 | Prompt: Large crowd gathered to watch decorative a fleet of decorative kites.
+Image 273 | Score: 1.6515 | Prompt: A little girl sitting on a bench in front of some ivy with her stuffed animal
+Image 274 | Score: 1.2359 | Prompt: some giraffes leaning their necks over a fence 
+Image 275 | Score: 1.0481 | Prompt: A very up close shot of a tasty hamburger and french fries.
+Image 276 | Score: 1.5452 | Prompt: A pizza cut into four sitting on top of a wooden cutting board.
+Image 277 | Score: 1.6061 | Prompt: Chicken, broccoli, and macaroni and cheese served an on orange plate. 
+Image 278 | Score: 0.1370 | Prompt: A group of people walking across a busy city street.
+Image 279 | Score: 1.0278 | Prompt: A large construction vehicle is stopped on the road by a policeman.
+Image 280 | Score: 0.8869 | Prompt: A large clock mounted to the side of a tall building.
+Image 281 | Score: 1.8764 | Prompt: A young girl is holding a ball in the field
+Image 282 | Score: 1.1926 | Prompt: A woman standing on a tennis court with a  tennis racquet.
+Image 283 | Score: 1.3676 | Prompt: A pile of fruit sitting on top of a wooden table.
+Image 284 | Score: -1.1893 | Prompt: An irregularly shaped pizza is placed in between two forks
+Image 285 | Score: 1.1824 | Prompt: A man with a skateboard and a dog in a park.
+Image 286 | Score: 0.7684 | Prompt: A group of lambs that are standing in the grass.
+Image 287 | Score: 0.5245 | Prompt: Small airplanes are parked on a grassy field.
+Image 288 | Score: 1.7055 | Prompt: Baseball pitchers have their own unique stance when throwing a ball.
+Image 289 | Score: 1.7560 | Prompt: A man is skateboarding down an open road.
+Image 290 | Score: 1.6192 | Prompt: A dog lies on his side on a throw rug
+Image 291 | Score: 0.2931 | Prompt: The giraffes are standing together on the grass
+Image 292 | Score: -0.2598 | Prompt: a person skiing down part of a marked race course 
+Image 293 | Score: 0.0803 | Prompt: Inside a bathroom stall with a toilet, toilet seat covers and a decorated wall.
+Image 294 | Score: 0.7021 | Prompt: A black and white picture of a person on a tennis court through the fence
+Image 295 | Score: 0.1464 | Prompt: Several cows are gathered together in a grassy field. 
+Image 296 | Score: 1.7660 | Prompt: Person on a motorcycle coming up to a stop sign on the street.
+Image 297 | Score: 0.3962 | Prompt: Two animals in the middle of a field.
+Image 298 | Score: 1.6664 | Prompt: A man in a kitchen smiles towards a camera
+Image 299 | Score: 0.1078 | Prompt: A man in white shirt playing a game with Nintendo Wii controller.
+Image 300 | Score: 1.6905 | Prompt: A dog laying down on a blanket next to some books
+Image 301 | Score: 0.8130 | Prompt: a brown cow standing next some other cows 
+Image 302 | Score: 0.3191 | Prompt: the bike is coming down the street with his lights on
+Image 303 | Score: 1.0784 | Prompt: A boy who is skateboarding does a trick. 
+Image 304 | Score: -0.2952 | Prompt: Competior preparing to return volley during tennis match.
+Image 305 | Score: 0.6414 | Prompt: A plate contains olives, mushrooms, broccoli, and bread.
+Image 306 | Score: 1.3842 | Prompt: there is a young boy that is riding a skateboard
+Image 307 | Score: 1.3557 | Prompt: A empty bench in a grassy field with yellow flowers surrounding it and a lake and mountains in the background.
+Image 308 | Score: -0.6076 | Prompt: A woman holding a baby boy in her hands.
+Image 309 | Score: 1.2146 | Prompt: a man with tribal markings sits smiling taking something from a standing man
+Image 310 | Score: 1.0123 | Prompt: There are three elephants standing beside a pool of water. 
+Image 311 | Score: 1.1742 | Prompt: A black cat sleeping on a white bedspread.
+Image 312 | Score: 0.5258 | Prompt: A bunch of people skiing on the snow during the day.
+Image 313 | Score: 0.9267 | Prompt: A group of people standing with luggage by their car
+Image 314 | Score: 0.8811 | Prompt: a person in a sweater holding a cake over a paper plate
+Image 315 | Score: 0.1738 | Prompt: Pictures with various shades of green are arranged in a grid pattern.
+Image 316 | Score: 1.2181 | Prompt: Two tennis players talking on a tennis court
+Image 317 | Score: 0.1346 | Prompt: Skiers are going down a steep slope on a cloudy day. 
+Image 318 | Score: 1.9235 | Prompt: An old man is sleeping on a park bench.
+Image 319 | Score: 1.1146 | Prompt: Three zebra standing on a road in a grassy field.
+Image 320 | Score: 1.2936 | Prompt: a number of luggage bags piled on one another 
+Image 321 | Score: 1.0081 | Prompt: a bird with a large sing span flying over trees
+Image 322 | Score: 1.4883 | Prompt: a man is sitting in front of a small cake
+Image 323 | Score: 1.8891 | Prompt: Two men holding oranges on a city street. 
+Image 324 | Score: 1.1017 | Prompt: Two small airplanes parked on a lush green field.
+Image 325 | Score: 1.3961 | Prompt: a line of toilets that are next to a wall
+Image 326 | Score: -0.3889 | Prompt: The man squats down while surfing through a wave.
+Image 327 | Score: 0.6711 | Prompt: That clock seems to be mounted on a building.
+Image 328 | Score: 1.5817 | Prompt: A person walking while using a cellular phone.
+Image 329 | Score: 1.0481 | Prompt: A girl sits at an outdoor table, there are lobsters in a bowl on the table, and trees and water in the background. 
+Image 330 | Score: 0.8243 | Prompt: there are two giraffes standing very close to each other
+Image 331 | Score: 1.4053 | Prompt: A young man wearing a ring adjusting his tie
+Image 332 | Score: 0.9500 | Prompt: this is a table in the middle of a room
+Image 333 | Score: 1.6094 | Prompt: a kid in jeans doing a skatboard trick down steps
+Image 334 | Score: -0.6703 | Prompt: Two zebra stand next to a herd of antelope.
+Image 335 | Score: 1.1991 | Prompt: Scantily clad couple in kitchen with pan of cookies.
+Image 336 | Score: 0.3985 | Prompt: Two cows sitting in the grass under a tree.
+Image 337 | Score: 0.9724 | Prompt: A close-up of headphones next to a keyboard on a desk.
+Image 338 | Score: 1.2448 | Prompt: A motorcycle is parked in a parking garage. 
+Image 339 | Score: 0.9273 | Prompt: A red-crested wood-pecker on a lichen covered tree.
+Image 340 | Score: 0.5191 | Prompt: A surfboard rider rides a small sized wave.
+Image 341 | Score: 0.3026 | Prompt: A white paper scibbled with blue ink near a computer keyboard.
+Image 342 | Score: -0.3860 | Prompt: Couple walking past outdoor display racks of assorted clothing.
+Image 343 | Score: 0.2026 | Prompt: A play of food next to a bowl of rice and chopsticks. 
+Image 344 | Score: -1.5811 | Prompt: a plate of vegetables sits next to a trey of pizza 
+Image 345 | Score: 1.7842 | Prompt: A table with a lamp next to apples sitting on top of each other.
+Image 346 | Score: 0.3212 | Prompt: A few cows grazing in an open field.
+Image 347 | Score: 0.8676 | Prompt: A photo of fruit is partially in color and partially in black and white.
+Image 348 | Score: 0.6438 | Prompt: A woman exercising a brown horse in a riding ring.
+Image 349 | Score: 1.2646 | Prompt: A cat sticking it's head out of a window behind flowers in a planter.
+Image 350 | Score: 1.6753 | Prompt: A living room decorated for Halloween with a large window with closed blinds.
+Image 351 | Score: 0.9406 | Prompt: Professional motorcycle racer in extreme lean on a race course.
+Image 352 | Score: 0.2814 | Prompt: A surf board rider being pushes by ocean waves.
+Image 353 | Score: 0.5503 | Prompt: A person riding a large wave in the ocean on a surfboard.
+Image 354 | Score: 1.5600 | Prompt: A grey bird in the middle of a snow-covered ground
+Image 355 | Score: 1.3205 | Prompt: A cat that is by a bicycle wheel.
+Image 356 | Score: 1.6328 | Prompt: a brown and white dog a fence and a tree
+Image 357 | Score: 1.0054 | Prompt: A group of people in ties are posing for a picture.
+Image 358 | Score: 1.0879 | Prompt: a tall red bus is coming down some tracks
+Image 359 | Score: 1.6515 | Prompt: two men standing in some sand walking up a hill
+Image 360 | Score: 1.1209 | Prompt: A calf laying in an open field licking its nose.
+Image 361 | Score: 0.9352 | Prompt: A woman holds a dog on her lap. 
+Image 362 | Score: 0.6962 | Prompt: a black and white dog sitting on a red couch with pillows
+Image 363 | Score: 0.3674 | Prompt: A car modified to be a boat on the water.
+Image 364 | Score: 1.1729 | Prompt: A ten filled with a creepy punk rocker snowman smothered in purple lights.
+Image 365 | Score: 1.0694 | Prompt: Various street signs in French outside of a building.
+Image 366 | Score: 1.8619 | Prompt: A group of hikers watching a plane over a body of water.
+Image 367 | Score: 1.8501 | Prompt: a small child watching an elephant behind a fence
+Image 368 | Score: 1.4496 | Prompt: This is a painting of a cross country skier traveling up a slope at sunrise.
+Image 369 | Score: 1.5868 | Prompt: The man is in his refrigerator looking for something to eat or drink
+Image 370 | Score: 0.2688 | Prompt: A stoplight showing a green light in a city.
+Image 371 | Score: 0.8386 | Prompt: A white plate topped with a pizza covered in toppings.
+Image 372 | Score: 0.4756 | Prompt: a kid holding a cell phone on her ears
+Image 373 | Score: 1.2980 | Prompt: Three cats that are sleeping on a bed.
+Image 374 | Score: 1.3594 | Prompt: People sitting on small boats in the creek. 
+Image 375 | Score: 0.3162 | Prompt: There s a van with grafting on thevoutsidevif the van
+Image 376 | Score: 1.8862 | Prompt: A small vase with a few flowers is in the snow.
+Image 377 | Score: 1.2416 | Prompt: A lovely appointed kitchen area with oval shaped island
+Image 378 | Score: 1.8427 | Prompt: Black box or case on a bench in a public area.
+Image 379 | Score: -0.5946 | Prompt: A polar bear is under water next to a rock wall.
+Image 380 | Score: 1.5311 | Prompt: A bus is parked on a wet street
+Image 381 | Score: -0.0348 | Prompt: A giraffe is standing next to a chain link fence.
+Image 382 | Score: 0.1548 | Prompt: A corner of a rest room with a cookie and coffee.
+Image 383 | Score: 0.5621 | Prompt: A sandwich that is sitting on a plate on a table.
+Image 384 | Score: 1.0165 | Prompt: A red rose sitting on a vase filled with water.
+Image 385 | Score: 0.7844 | Prompt: A plate with two slices of pizza on a table with another plate and glass.
+Image 386 | Score: 0.7740 | Prompt: This is a baseball player trying to hit a ball
+Image 387 | Score: 1.0459 | Prompt: a train traveling on an elevated train track.
+Image 388 | Score: 0.9108 | Prompt: A woman wearing a seat belt with her hair up in the air.
+Image 389 | Score: 0.3640 | Prompt: some bananas that are growing but still too ripe to harvest
+Image 390 | Score: 1.1325 | Prompt: A person and a elephant by some trees.
+Image 391 | Score: 1.7431 | Prompt: People all riding there bikes at night time .
+Image 392 | Score: -0.4574 | Prompt: a man catching a frisbee in a field.
+Image 393 | Score: 1.1899 | Prompt: A man skiing in the snow with large pine trees.
+Image 394 | Score: -0.3300 | Prompt: A picture of something and it appears like food.
+Image 395 | Score: 1.5452 | Prompt: A man in white shirt doing a trick on a skateboard.
+Image 396 | Score: -0.4290 | Prompt: a man on skies is coming down a snowy slope
+Image 397 | Score: 0.7601 | Prompt: a cup containing scissors, a pen, and a few eyeliner pencils
+Image 398 | Score: 1.6547 | Prompt: Several young children flying a kite in a field.
+Image 399 | Score: 1.4109 | Prompt: An oriental style room with tatami floor coverings.
+Image 400 | Score: -0.0225 | Prompt: The driver holds the small dog out the car window while taking a reflective photo in the side mirror.
+Image 401 | Score: 1.9468 | Prompt: A group of people sitting by blue building eating food.
+Image 402 | Score: 0.3674 | Prompt: A clean, white bathroom with a walk-in shower.
+Image 403 | Score: 0.0170 | Prompt: There are two fire trucks outside of a market
+Image 404 | Score: 1.6997 | Prompt: A young man, who is dressed formally, is posing for the camera. 
+Image 405 | Score: 0.4527 | Prompt: A bathroom is shown with a toilet, sink and bathtub.
+Image 406 | Score: 1.1559 | Prompt: Three horse running in the grass in a open area.
+Image 407 | Score: 1.4478 | Prompt: there is a sandwich that is cut in half in a bowl
+Image 408 | Score: 0.0561 | Prompt: A frontal image of a jet airplane on a runway.
+Image 409 | Score: 0.8655 | Prompt: A man and woman exchanging wedding vows outside.
+Image 410 | Score: 1.7390 | Prompt: A yellow fire hydrant sitting in the middle of a bed of rocks.
+Image 411 | Score: 0.2916 | Prompt: A young man surfs in a small blue wave.
+Image 412 | Score: 1.1601 | Prompt: A man is on the court holding his racket. 
+Image 413 | Score: 1.5631 | Prompt: A man stands next to a concrete wall.
+Image 414 | Score: 0.4698 | Prompt: A rusted up park bench sitting in the middle of a park.
+Image 415 | Score: 0.7849 | Prompt: A CAT SITTING ON A BOARD GAME THAT IS ON TOP OF A COFFEE TABLE
+Image 416 | Score: 1.3332 | Prompt: Broccoli is in a bowl with a fork. 
+Image 417 | Score: 1.5536 | Prompt: a big metal colander filled with navel oranges
+Image 418 | Score: 0.6688 | Prompt: A giraffe standing next to a lush green forest.
+Image 419 | Score: 1.4344 | Prompt: A bus with no roof has lots of seats in back.
+Image 420 | Score: 1.7797 | Prompt: A woman sits on the edge of a purple bed that has a black canopy.
+Image 421 | Score: 0.2389 | Prompt: A man has a dazed look while sitting on a toilet.
+Image 422 | Score: 1.6036 | Prompt: Someone jumping in the air on their snowboard.
+Image 423 | Score: 1.1636 | Prompt: Two giraffes standing in front of trees facing to the right.
+Image 424 | Score: -0.9250 | Prompt: a tennis court that has a man with a racket
+Image 425 | Score: 0.8126 | Prompt: A sea gull flying high in the sky on a clear day
+Image 426 | Score: -0.1924 | Prompt: Two bunches of green bananas on banana trees.
+Image 427 | Score: -0.4629 | Prompt: Table of food including carrots, peas, salad, corn, gravy, pies, bread
+Image 428 | Score: 0.8046 | Prompt: A very tasty looking pizza with some toppings.
+Image 429 | Score: -0.3504 | Prompt: a close up of a person operating a cell phone
+Image 430 | Score: 0.4908 | Prompt: A malnourished horse is fitted with a sack over its mouth seemingly depicting animal abuse.
+Image 431 | Score: 0.3428 | Prompt: a bunch of people at a table with food
+Image 432 | Score: 1.3166 | Prompt: this is a group of people standing near a river
+Image 433 | Score: 1.5932 | Prompt: A small box truck parked on a city street.
+Image 434 | Score: -0.7380 | Prompt: A open stove with some food on the inside.
+Image 435 | Score: 1.7383 | Prompt: A pair of scissors on top of a piece of paper on top of a rock.
+Image 436 | Score: -0.6253 | Prompt: A train moving along some train tracks next to a tree.
+Image 437 | Score: 0.8855 | Prompt: A dog, leaning against a laptop, looks gloomy. 
+Image 438 | Score: -0.0610 | Prompt: A thin crust pizza served on a plate.
+Image 439 | Score: 1.6436 | Prompt: A train traveling through a forest with tall trees.
+Image 440 | Score: 0.9734 | Prompt: a tennis player hitting a tennis ball on a court
+Image 441 | Score: 1.7265 | Prompt: a bunch of women serving hot dogs 
+Image 442 | Score: 1.7376 | Prompt: A woman with dark makeup on holding a sandwich.
+Image 443 | Score: 1.3256 | Prompt: People are standing on the baseball diamond in the grass and dirt.
+Image 444 | Score: 1.7234 | Prompt: A girl in bikini standing with surfboard on the beach.
+Image 445 | Score: 1.2770 | Prompt: A chair by a window in a living room
+Image 446 | Score: 0.6448 | Prompt: A city bus on the street in front of buildings.
+Image 447 | Score: 1.7974 | Prompt: A group of Navy men cutting a large sheet cake.
+Image 448 | Score: 1.2139 | Prompt: this tabby cat is loving the attention she is getting from this man
+Image 449 | Score: 1.1602 | Prompt: A brown stuffed teddy bear sitting on top of a couch.
+Image 450 | Score: -0.0407 | Prompt: A baggage claim area with black suitcases on a baggage carousel.
+Image 451 | Score: 1.5600 | Prompt: Floral vases on display some with oranges in a glass vase and a on a platter.
+Image 452 | Score: 0.4289 | Prompt: A large bus driving down a city street.
+Image 453 | Score: 1.3756 | Prompt: An abandoned toilet sits on the sidewalk next to a parking pay kiosk.
+Image 454 | Score: 0.4876 | Prompt: Three people on an open field with a banner 
+Image 455 | Score: 0.5898 | Prompt: Signs warn that parking is for residents only at certain times.
+Image 456 | Score: 0.1101 | Prompt: A woman with blue hair posing in the mirror.
+Image 457 | Score: 1.5768 | Prompt: Several young girls holding tennis racquets next to a man.
+Image 458 | Score: -0.9800 | Prompt: A person with knee pads on standing on a skateboard.
+Image 459 | Score: 0.2323 | Prompt: a cat laying in an open bag of luggage 
+Image 460 | Score: 0.4672 | Prompt: THERE IS A BUNCH OF KIDS THAT ARE AT THE TABLE 
+Image 461 | Score: 0.4154 | Prompt: a pole with street signs and a green light 
+Image 462 | Score: -1.4131 | Prompt: Fruit market display of oranges with one cut open.
+Image 463 | Score: 1.1616 | Prompt: A graffiti-ridden building in an urban setting, a fire hydrant at curbside.
+Image 464 | Score: 0.6497 | Prompt: a toilet and some brown tiles on the floor and wall
+Image 465 | Score: 1.8091 | Prompt: Two bear cubs wrestling in the grass by rocks
+Image 466 | Score: 1.2177 | Prompt: A city street on a rainy day with people taking cover using umbrellas
+Image 467 | Score: 1.4260 | Prompt: A cutting board with slices of peeled apple and a knife next to an apple and apple peels.
+Image 468 | Score: 1.7338 | Prompt: a green phone booth and yellow fire hydrant on city street
+Image 469 | Score: 1.6905 | Prompt: Three lit candles on a chocolate birthday cake. 
+Image 470 | Score: 0.9729 | Prompt: This is a photo of traffic on a busy city highway. 
+Image 471 | Score: -0.1732 | Prompt: A woman walking across a tennis court, swinging a tennis racket.
+Image 472 | Score: 1.3733 | Prompt: A horse standing in a field of tall brush.
+Image 473 | Score: 0.7064 | Prompt: A group of teenagers standing by a graffiti'd wall.
+Image 474 | Score: 0.2644 | Prompt: A double sized transit bus followed by a double deck bus.
+Image 475 | Score: 0.8578 | Prompt: a woman and two children are feeding some elephants
+Image 476 | Score: 0.7282 | Prompt: A group of motorcycles, half with male riders in the street at a city intersection.
+Image 477 | Score: 1.2042 | Prompt: A clock tower in the middle of a road. 
+Image 478 | Score: 0.3984 | Prompt: Two people sitting on a motorcycle in the street next to a beach.
+Image 479 | Score: 1.2790 | Prompt: People going about their day on a street in the Chinese district.
+Image 480 | Score: 0.7778 | Prompt: A red stop/arret sign at a toll booth.
+Image 481 | Score: 1.3300 | Prompt: A woman and her father hold hands in a park
+Image 482 | Score: 0.9313 | Prompt: A woman prepares to hit a tennis ball.
+Image 483 | Score: 0.2152 | Prompt: A very tall clock tower with a clock on the side of it.
+Image 484 | Score: 1.2817 | Prompt: a bunch of kites in the shape of various animals in front of a misty beach with a group of people riding horses
+Image 485 | Score: 1.9016 | Prompt: a young person standing next to a red fire hydrant
+Image 486 | Score: 0.2657 | Prompt: A couple of sandwiches in a food basket
+Image 487 | Score: 1.7930 | Prompt: A skiier jumps into the air in front of a huge audience.
+Image 488 | Score: 1.2614 | Prompt: A man playing baseball has his arm extended
+Image 489 | Score: 1.4537 | Prompt: A man lounges sitting backways on a motor bike reading.
+Image 490 | Score: 0.4494 | Prompt: A couple of clocks that are on a building.
+Image 491 | Score: 0.3144 | Prompt: Atv parked alongside rural roadway with trees lining landscape.
+Image 492 | Score: 0.4632 | Prompt: A woman sitting next to a man on a bench.
+Image 493 | Score: 1.1805 | Prompt: a bunch of things are outside of a clean white home
+Image 494 | Score: 0.5930 | Prompt: A white bathroom with sink and shower cleaned.
+Image 495 | Score: 1.1782 | Prompt: A keeper feeding a baby elephant with a milk bottle
+Image 496 | Score: 1.7071 | Prompt: A black and white zebra stands next to a tree.
+Image 497 | Score: 0.0643 | Prompt: A flock of sheep graze beneath trees in a green pasture filled with wildflowers.
+Image 498 | Score: 0.1134 | Prompt: A snow field outside of a ski resort.
+Image 499 | Score: 0.7379 | Prompt: a wooden bench sits on top of a grass hill 
+Image 500 | Score: -0.1957 | Prompt: Woman in suggestive wear on her knees in a bed.

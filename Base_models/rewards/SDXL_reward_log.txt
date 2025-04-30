@@ -1,0 +1,501 @@
+Image 0|Score: -1.0227| Green commercial building with refrigerator and refrigeration units outside.
+Image 1|Score: 0.6840| An airplane with two propellor engines flying in the sky.
+Image 2|Score: 0.2769| Four cows in a pen on a sunny day 
+Image 3|Score: 1.2447| Three dogs sleeping together on an unmade bed
+Image 4|Score: 0.0123| A baseball card with an old school player.
+Image 5|Score: 0.1026| A woman holding a cake is looking at an excited child in a high chair. 
+Image 6|Score: 0.4173| A dish on a counter containing beef and broccoli.
+Image 7|Score: -0.5036| A big rig is driving through a construction site. 
+Image 8|Score: 1.8301| A boy wearing an orange t-shirt playing a video game while sitting on a couch.
+Image 9|Score: -0.3944| a woman holding a frisbee standing net to table and chairs.
+Image 10|Score: 1.0709| A busy street with a streetlight and lots of cars.
+Image 11|Score: 0.9802| This is a computer monitor, keyboard, and mouse.
+Image 12|Score: 0.8712| a plate with  a sandwich, fires, and coleslaw sitting side by side
+Image 13|Score: 1.7054| A man standing near an extended tour bus parked in a parking lot.
+Image 14|Score: -0.0866| A room in a private house for loosening up and institutionalizing.
+Image 15|Score: -0.7358| A bathroom with a white toilet and shower
+Image 16|Score: 0.2594| A plate filled with a serving of food to be eaten
+Image 17|Score: 0.4190| A bunch of cows caged in at a factory
+Image 18|Score: 0.8680| A young lady is on her phone as a lady in the background looks on. 
+Image 19|Score: 0.3941| a toilet with the toilet seat left up and the sink next to it
+Image 20|Score: 0.6295| The white fridge stands alone in its own space.
+Image 21|Score: 1.2369| A cartoon character standing on the beach by a surf boards standing in the sand.
+Image 22|Score: 0.1063| A snowboarder headed down a hill in front of trees.
+Image 23|Score: 1.3683| A woman and two dogs are skiing in snow.
+Image 24|Score: 1.2942| Two people walking in the ocean away from a boat. 
+Image 25|Score: 1.2003| A dog sleeps on the ground in someones bedroom.
+Image 26|Score: -0.3072| A boys skateboarding is about to slide on a pole.
+Image 27|Score: 0.3269| A tennis match in progress with one of the contestants throwing the ball into the air getting ready to serve.
+Image 28|Score: 1.5888| Three zebras eating hay from a trough at the zoo.
+Image 29|Score: 1.8564| A woman sitting on a bench overlooking a body of water.
+Image 30|Score: 0.5471| A man riding a horse next to another man on a horse.
+Image 31|Score: 0.5434| a tray of food on a wooden table with bread, carrots, sauce, nuts and a muffin.
+Image 32|Score: 0.4427| a blue motorcycle is standing out in the open
+Image 33|Score: 1.6437| A big furry black and white cat is sitting on top of a leather suitcase.
+Image 34|Score: 1.6529| A person flying a kite at the beach with another person.
+Image 35|Score: 1.7471| Woman bent slightly on skis wearing goggles and snowsuit.
+Image 36|Score: 1.6582| A bed that has a large painting behind it.
+Image 37|Score: 0.3277| A small pizza on a plate with a fork beside it on a table.
+Image 38|Score: 1.0078| A plate of food that includes rice and various vegetables.
+Image 39|Score: 1.7886| A bearded man in a wetsuit holding a surfboard. 
+Image 40|Score: 1.8846| A young man holding a walkie talkie while wearing an orange shirt.
+Image 41|Score: -0.5437| A man smiles while holding a wine glass
+Image 42|Score: 1.5213| a stop sign and no outlet sign by a snowy mountain
+Image 43|Score: -0.5423| A women who is holding up a cell phone.
+Image 44|Score: 1.4845| A tray of scissors is on a table with a lamp and candles.
+Image 45|Score: 1.6085| a man looking at a cell phone with a magnifying lens
+Image 46|Score: 0.3007| Jet airplane in flight landing gear extended down
+Image 47|Score: 1.4839| A man is looking through a selection of ties.
+Image 48|Score: -0.1187| A may laying in on a bed with his right breasteses hanging out.
+Image 49|Score: 0.1372| Various fruits and vegetables are on display close together.
+Image 50|Score: 0.8293| A kitchen filled with a wooden cabinet and a large window.
+Image 51|Score: 1.8801| A boy is walking with a wet suit and carrying his surf board under his arm.
+Image 52|Score: 1.4935| A sculpture of iron standing in front of a tall white building.
+Image 53|Score: 0.6992| A double deck bus that is next to a building.
+Image 54|Score: -0.8777| Two donuts, banana, cup and a book on the table.
+Image 55|Score: 1.6420| A container with three sections, each containing different fruits and vegetables.
+Image 56|Score: 1.2172| A plate with hot dogs and cherry tomatoes 
+Image 57|Score: 1.0168| The elephant is walking around in the park.
+Image 58|Score: 1.5454| A green truck traveling down a road with a wooden flatbed.
+Image 59|Score: 0.7355| A group of vegetables on top of  a dark surface.
+Image 60|Score: 0.5229| Female tennis player about to hit the ball
+Image 61|Score: 1.1437| a man that is on a skateboard that is on a ramp
+Image 62|Score: 0.1762| Two people are standing in snow carrying ski poles and skis on their shoulders. 
+Image 63|Score: 1.3324| a jockey is seen riding his horse on a grass field 
+Image 64|Score: 0.2343| A bathroom with no walls and a toilet bowl
+Image 65|Score: -0.0793| A group of lawn chairs sitting on top of a beach.
+Image 66|Score: 0.3726| A city square decorated with a tree and lights
+Image 67|Score: 1.6195| A dog sits on a tennis court next to tennis equipment. 
+Image 68|Score: 1.1412| a group of people watching giraffes in the zoo
+Image 69|Score: 1.5322| A plate with spaghetti, red sauce, broccoli and a coca cola on the side.
+Image 70|Score: 1.2590| A plate of food with a fried egg and colorful vegetables.
+Image 71|Score: 0.7544| A plastic fork on top of a lid sitting on a bench.
+Image 72|Score: 0.9170| A man brushing his teeth in the bathroom.
+Image 73|Score: 0.3981| A group of friends sitting inside their living room.
+Image 74|Score: 1.8071| Motorcycles are riding down the road toward the sun. 
+Image 75|Score: -0.1148| A vase filled with purple flowers and green plants.
+Image 76|Score: 1.8768| This room has a bed with blue sheets and a large bookcase
+Image 77|Score: 0.5257| A street with traffic lights, wall and buildings.
+Image 78|Score: 1.1450| A very young boy and girl holding Wii controllers playing a video game.
+Image 79|Score: 1.1644| the person is on his skateboard going up the ramp 
+Image 80|Score: 1.2760| Three cakes are sitting in a row on a bakery table.
+Image 81|Score: 1.2910| Two horses are standing behind a stone wall.
+Image 82|Score: 1.1127| A compilation of pictures of old bathroom fixtures.
+Image 83|Score: -0.1928| A bunch of kids standing on top of a skateboarding ramp.
+Image 84|Score: 1.2992| a close up of some motorcycles parked on a grassy field
+Image 85|Score: 1.4618| A group of horse racers approaching a turn on the track.
+Image 86|Score: 1.3972|  A young boy balancing himself on his skateboard.
+Image 87|Score: 1.2370| a woman with a hat swinging a tennis racquet
+Image 88|Score: 0.0512| There are many cars driving along the road at night.
+Image 89|Score: -1.2645| Several black and white sheep near a sofa in a field.
+Image 90|Score: 1.5342| A couple of motor bikes parked on top of a green surface.
+Image 91|Score: 1.6107| Cat standing next to rocking chair on sheets with walls
+Image 92|Score: 0.9061| a couple of plants sit in front of a window 
+Image 93|Score: 1.1690| A bird stands on rocks across the water from a lighthouse.
+Image 94|Score: 1.7521| An open-air festival in India with umbrellas, women in saris, and an ascetic. 
+Image 95|Score: 0.6400| Adults enjoying each others company in residential kitchen.
+Image 96|Score: 0.7478| A tour bus is empty on a downtown road.
+Image 97|Score: 0.6383| A person hitting a tennis ball on a court.
+Image 98|Score: 0.5966| a couple of microwaves that are next to each other
+Image 99|Score: 0.2950| A professional tennis player hits a ball as fans watch.
+Image 100|Score: 1.6578| some people boats and birds in the water
+Image 101|Score: 1.2714| a couple of people are in line at a vendor
+Image 102|Score: -0.0963| A man smiles as he moves through the snow holding ski poles. 
+Image 103|Score: 1.9653| Graffiti of a basketball player holding an umbrella
+Image 104|Score: 1.7427| A green and white rain next to a phone booth.
+Image 105|Score: 1.4546| A row of black chairs against a red wall with a clock.
+Image 106|Score: 1.8179| there is a fire hydrant that is painted all silver
+Image 107|Score: 0.9206| A orange is hanging on a branch on the tree.
+Image 108|Score: -0.3065| The toilet is clean and ready for customers to use.
+Image 109|Score: 1.5606| Six large suitcases stacked up against the wall.
+Image 110|Score: -1.3250| A bathroom with a toilet and a striped shower curtain.
+Image 111|Score: 1.1814| A city at night with people walking around.
+Image 112|Score: 0.9308| A hand is lifting up the top bread of a sub sandwich.
+Image 113|Score: 1.2040| A herd of cattle grazing on the side of a hill.
+Image 114|Score: 1.8964| A girl is washing grapes in a sink.
+Image 115|Score: 1.1252| A woman preparing food for cooking in her kitchen.
+Image 116|Score: 1.0066| a man standing on a tennis court while people watch him 
+Image 117|Score: 1.2463| A pizza with bacon bits and spinach leaves on it.
+Image 118|Score: 0.6684| Fruit, including oranges, apples and lemons, sits underneath hanging bananas.
+Image 119|Score: 0.9262| Adult elephant standing close to a baby elephant 
+Image 120|Score: 0.6743| A photograph of a kitchen inside a house.
+Image 121|Score: 1.4547| a room with many screen and a very big map
+Image 122|Score: 1.6923| A man wearing a collar shirt with a blue tie
+Image 123|Score: 1.7084| a living room with a bright red couch next to a yellow wall 
+Image 124|Score: 1.0979| Two ducks swim in a pond with green water.
+Image 125|Score: 1.2011| A stuffed monkey that is sitting on some boxes.
+Image 126|Score: 1.3839| Cars are parked in the lot of a gas station.
+Image 127|Score: -0.0364| a little dog checking out a pet bed
+Image 128|Score: 0.7983| A couple Of Girls are playing a soccer game
+Image 129|Score: 1.1559| a peice of carrot cake that is on a plate
+Image 130|Score: -0.0840| Boats are docked in a lake by a road.
+Image 131|Score: 1.7231| A bed with white and gray bedding and netting overhead.
+Image 132|Score: 1.0271| A group of flamingos standing next to each other in water.
+Image 133|Score: -0.4744| Snow covered picnic benches overlooking a parking lot.
+Image 134|Score: 0.2023| People preparing to ski down a snow covered slope.
+Image 135|Score: 0.6934| Two men look down into a computer monitor on a desk.
+Image 136|Score: 0.6329| A man in a brown shirt helping a lady with a Nintendo Wii controller.
+Image 137|Score: 1.3540| A dog sitting upright with its hands on a laptop.
+Image 138|Score: 1.0066| A table has colorful flowers and food on it.
+Image 139|Score: 0.8698| A person grabbing a slice of pizza from a pizza box.
+Image 140|Score: 1.6333| A dog is in the air with a frisbee in its mouth
+Image 141|Score: 1.0507| a bunch of wine bottles sit on top of a table 
+Image 142|Score: 0.6717| Two vases of fresh flowers sit on top of the table.
+Image 143|Score: 1.8571| A close up of a red and black bird on a rock.
+Image 144|Score: 0.7381| the edge of a sink with a toothbrush floss and lotion
+Image 145|Score: 1.7385| Many people walk on the narrow street underneath many strings with flags on them.
+Image 146|Score: -0.8875| Large white bathroom showing sink, tub, TV, and countertops.
+Image 147|Score: 0.9897| A pile of different types of vegetables on top of each other.
+Image 148|Score: 0.9346| A cat on a chair holding a remote control.
+Image 149|Score: 1.9371| A blurry shot of someone on a bicycle holding an umbrella 
+Image 150|Score: 0.7001| A man riding on a skateboard up on to a ledge.
+Image 151|Score: 0.2948| a woman is out on a court playing tennis
+Image 152|Score: 0.6813| Two beds with decorative wooden headboard and foot board, one is a double and one is a single
+Image 153|Score: 1.4168| There is a young boy throwing a baseball
+Image 154|Score: 0.2639| a close up of a person holding an electronic device
+Image 155|Score: 1.5915| many bikes parked on a fence near the street
+Image 156|Score: 0.3762| A man and a woman eating dinner at a table.
+Image 157|Score: 0.7359| The man has a green coat and blue tie. 
+Image 158|Score: 1.3380| rusted scissors out in the field with grass growing around it.
+Image 159|Score: 0.8498| A man standing by a large air gondola that is docked in a station
+Image 160|Score: 0.8550| A blue, yellow and red train driving through on a train track. 
+Image 161|Score: 0.8894| a couple of elephants walking off a path
+Image 162|Score: 0.7528| a woman is standing outside with an umbrella
+Image 163|Score: 1.3691| Bundles of rope are on a cart in front of a train.
+Image 164|Score: -0.5824| Two men play against each other in Wii Bowling.
+Image 165|Score: 1.6964| An orange trolley is on the street next to a building with a lot of windows.
+Image 166|Score: 1.9079| a woman sitting on a suitcase at the end of a motor home 
+Image 167|Score: 0.3299| A man taking a photo of food on a table.
+Image 168|Score: -2.0998| A woman sleeping on a plane with a window view of the wing.
+Image 169|Score: -1.2960| Windows are open on the back of a truck. 
+Image 170|Score: -0.1196| Here is a scale weighing a tan piece of luggage.
+Image 171|Score: -0.3702| A vase in a case next to other items. 
+Image 172|Score: 1.3285| A man holding a Nintendo Wii game controller.
+Image 173|Score: 1.7960| Two women sitting on a blanket looking at cellular phones.
+Image 174|Score: 0.4931| The person was standing on the snow skiing course in his skis.
+Image 175|Score: 0.3581| people walking in snow on a ski slope
+Image 176|Score: 1.8313| A young child holds a hair dryer to her hair.
+Image 177|Score: 1.4941| a bunch of people are together in the snow 
+Image 178|Score: 0.2686| The man looks up at a small child sitting on a refrigerator.
+Image 179|Score: 1.3674| A market display case filled with different colored vegetables.
+Image 180|Score: -0.3659| Two sings that are in a bathroom underneath a mirror.
+Image 181|Score: 1.4076| Two adult bears play fight in the water.
+Image 182|Score: 1.7436| Vase with a handle containing flowers sitting on table. 
+Image 183|Score: 1.5396| A vase full of flowers sitting beside a blue piece of pottery.
+Image 184|Score: -1.0628| A man showing off a toothbrush and other toiletries.
+Image 185|Score: 1.7187| A woman looking down at a set of luggage to her right.
+Image 186|Score: 0.8630| Three people stand in front of the giraffe zoo section.
+Image 187|Score: 0.9990| A lone skier is skiing down a path.
+Image 188|Score: 1.4951| A man is riding in a horse drawn carriage
+Image 189|Score: 1.9078| a white dog is standing in a small boat
+Image 190|Score: 1.6744| A couple laying under an umbrella at a park.
+Image 191|Score: 0.0053| A man holding a white object in his hand.
+Image 192|Score: 1.9547| A flock of doves and a man sitting in a park.
+Image 193|Score: 1.0850| This image is of a batter taking a swing during a baseball game.
+Image 194|Score: 1.9481| A silver fire hydrant at night with trash all around it
+Image 195|Score: 0.0400| Four zebras are grazing on grass in a pasture.
+Image 196|Score: 1.2675| A cat sitting on top of a suitcase on a bed.
+Image 197|Score: 0.0023| A train sitting next to a platform in a tunnel.
+Image 198|Score: 1.0859| The unnatural looking stance of a professional baseball pitcher
+Image 199|Score: 1.2489| A small, neat and clean yellow bathroom set up.
+Image 200|Score: 0.0529| A bathroom with a toilet, a urinal and a sink, all white
+Image 201|Score: 0.8455| A cup with food and a fork sitting in it.
+Image 202|Score: 0.7640| Two black elephants seem somewhat distant near the small lake. 
+Image 203|Score: 1.2486| Group of Nordic skiers in full gear, with packs, following in line across a landscape.
+Image 204|Score: 1.4708| A train is coming down the track in Hawaii.
+Image 205|Score: 0.3025| Construction workers use a bulldozer and truck to move dirt.
+Image 206|Score: 1.8283| A man sitting on a wooden bench playing a guitar in a park.
+Image 207|Score: 1.2810| A young man posing beside his red racing motorcycle.
+Image 208|Score: 1.3610| A stop sign near a street corner by a tree
+Image 209|Score: 1.3383| The horse carriage is driving down the street.
+Image 210|Score: 0.9881| two women are playing video games and a couch
+Image 211|Score: 0.4506| Four guys in a room playing with a wii.
+Image 212|Score: -1.9805| A view of a clock tower from across the way.
+Image 213|Score: -0.3946| An intersection with a stop sign and highway signs.
+Image 214|Score: 0.6689| there is a memorial of roberto clemente next to a baseball field
+Image 215|Score: 0.4389| A green street light in between two buildings.
+Image 216|Score: 0.2447| A vine of red peppers hanging off a cabinet.
+Image 217|Score: 1.3591| A cake with frosting sitting on a pedestal.
+Image 218|Score: 0.5275| A herd of elephants walking across a grass field.
+Image 219|Score: 1.6169| A red and yellow bus parked while a man walks by. 
+Image 220|Score: 0.2453| A white high tech toilet with an open seat.
+Image 221|Score: 1.4520| A bathroom has blue carpet and a tub.
+Image 222|Score: -0.1908| a very larg pizza with some nice toppings on it
+Image 223|Score: 1.3393| A woman is looking at sheep off in a field
+Image 224|Score: 1.3986| A fighter jet flying through a  cloudy sky.
+Image 225|Score: 0.2872| A variety of signs on a street corner.
+Image 226|Score: 1.1589| A railroad train passing underneath an under pass.
+Image 227|Score: -1.2347| Two elephants hold people and stand near a tree.
+Image 228|Score: 1.0001| City bus going down the street in an urban setting
+Image 229|Score: 1.1363| Door to take out restaurant on street corner.
+Image 230|Score: 0.5966| A beer sits untouched on a table with other food
+Image 231|Score: 1.4397| People are sitting on the sidewalk and relaxing by the river.
+Image 232|Score: 1.8481| A little girl taking a bite out a a giant burger.
+Image 233|Score: 0.7644| A herd of adult elephants with a baby elephant waling through a forest.
+Image 234|Score: 0.9463| A baseball player taking  a swing at a ball
+Image 235|Score: 0.8063| A hot fudge sundae with a red cherry on top. 
+Image 236|Score: 1.5232| A man sitting on a bench holding a wooden guitar.
+Image 237|Score: 0.4461| A woman catches a soccer ball during a game. 
+Image 238|Score: 1.7454| A bicycle leaning on a building near a train track.
+Image 239|Score: 1.5317| THERE ARE TELEPHONES THAT ARE ON DISPLAY 
+Image 240|Score: 1.4480| A row of parked vehicles in front of a tall building.
+Image 241|Score: -0.1113| The plate has broccoli and slices of tomato and onion.
+Image 242|Score: 1.2157| three baseball players and one is hitting the ball
+Image 243|Score: 0.2992| A building with a clock on the outside of it and a compass on top of it.
+Image 244|Score: 0.9864| A cat lays its head on the laptop keyboard. 
+Image 245|Score: 0.3483| A street scene looking at cars and an intersection in the background.
+Image 246|Score: 0.1277| A person in a costume skiing down a snowy slope.
+Image 247|Score: 0.9173| A striped cat is laying on a kitchen chair.
+Image 248|Score: 0.0378| A male walking out of the water holding a surf board.
+Image 249|Score: 1.7071| two benches near each other in a field near water 
+Image 250|Score: 1.4177| black and white photo of boys playing on a street sidewalk
+Image 251|Score: -0.8192| A group of zebra grazing grass with a backdrop of bushes.
+Image 252|Score: 0.7542| Several young men playing a game of Frisbee together.
+Image 253|Score: -0.7444| A large black and brown dog sitting in  a dog bead.
+Image 254|Score: 0.0256| Two cats sleeping on top of a bed next to pillows.
+Image 255|Score: 1.3245| A picture of a empty street very late at night.
+Image 256|Score: 0.9115| A large clock is underneath the sign of a spacious station.
+Image 257|Score: 0.6397| A bathroom with a toilet, sink, and shower.
+Image 258|Score: 1.7511| A baseball cap and catchers mitt sitting on the ground.
+Image 259|Score: 0.7552| Two zebras are looking at the plants on the ground.
+Image 260|Score: -0.4601| A group of young men and women sitting at a table.
+Image 261|Score: 1.4170| A man in a purple shirt holding a soccer ball next to other soccer players.
+Image 262|Score: 0.7884| A cat laying down in a open suitcase on a bed.
+Image 263|Score: 1.6801| a cheese pizza cut into many slices on a table
+Image 264|Score: 1.5012| A group of people standing outside of a white store.
+Image 265|Score: 0.8393| A white sink and toilet in a room.
+Image 266|Score: -0.7365| There is toothpaste on the bristles of a pink toothbrush on the counter in front of a sculpture made of miniature Amazon boxes.
+Image 267|Score: 0.9078| A person riding a bike next to a large body of water.
+Image 268|Score: -1.3655| A pizza cutter is designed to look like the Enterprise
+Image 269|Score: 1.8879| an old man with a white dog on a leash and a bench
+Image 270|Score: 0.9121| A skillet of food has broccoli as one of its ingredients.
+Image 271|Score: 1.3147| A child holding a Motorola cell phone in its hand 
+Image 272|Score: 0.6836| Large crowd gathered to watch decorative a fleet of decorative kites.
+Image 273|Score: 1.8320| A little girl sitting on a bench in front of some ivy with her stuffed animal
+Image 274|Score: -0.1911| some giraffes leaning their necks over a fence 
+Image 275|Score: 0.9227| A very up close shot of a tasty hamburger and french fries.
+Image 276|Score: 1.6467| A pizza cut into four sitting on top of a wooden cutting board.
+Image 277|Score: -0.8422| Chicken, broccoli, and macaroni and cheese served an on orange plate. 
+Image 278|Score: 0.1156| A group of people walking across a busy city street.
+Image 279|Score: -1.3565| A large construction vehicle is stopped on the road by a policeman.
+Image 280|Score: 0.6195| A large clock mounted to the side of a tall building.
+Image 281|Score: 1.9112| A young girl is holding a ball in the field
+Image 282|Score: 1.3411| A woman standing on a tennis court with a  tennis racquet.
+Image 283|Score: 0.4411| A pile of fruit sitting on top of a wooden table.
+Image 284|Score: 0.7020| An irregularly shaped pizza is placed in between two forks
+Image 285|Score: 1.8729| A man with a skateboard and a dog in a park.
+Image 286|Score: 0.8186| A group of lambs that are standing in the grass.
+Image 287|Score: 1.3517| Small airplanes are parked on a grassy field.
+Image 288|Score: 0.8722| Baseball pitchers have their own unique stance when throwing a ball.
+Image 289|Score: 1.5785| A man is skateboarding down an open road.
+Image 290|Score: -0.3810| A dog lies on his side on a throw rug
+Image 291|Score: 0.7924| The giraffes are standing together on the grass
+Image 292|Score: -0.3736| a person skiing down part of a marked race course 
+Image 293|Score: -0.0565| Inside a bathroom stall with a toilet, toilet seat covers and a decorated wall.
+Image 294|Score: 1.5691| A black and white picture of a person on a tennis court through the fence
+Image 295|Score: -0.3641| Several cows are gathered together in a grassy field. 
+Image 296|Score: 1.1948| Person on a motorcycle coming up to a stop sign on the street.
+Image 297|Score: 0.8162| Two animals in the middle of a field.
+Image 298|Score: 1.3702| A man in a kitchen smiles towards a camera
+Image 299|Score: 1.1418| A man in white shirt playing a game with Nintendo Wii controller.
+Image 300|Score: 1.7359| A dog laying down on a blanket next to some books
+Image 301|Score: 1.1401| a brown cow standing next some other cows 
+Image 302|Score: 1.3611| the bike is coming down the street with his lights on
+Image 303|Score: 1.4439| A boy who is skateboarding does a trick. 
+Image 304|Score: -0.6293| Competior preparing to return volley during tennis match.
+Image 305|Score: 1.2222| A plate contains olives, mushrooms, broccoli, and bread.
+Image 306|Score: 1.6044| there is a young boy that is riding a skateboard
+Image 307|Score: 1.8747| A empty bench in a grassy field with yellow flowers surrounding it and a lake and mountains in the background.
+Image 308|Score: 0.1459| A woman holding a baby boy in her hands.
+Image 309|Score: 0.5770| a man with tribal markings sits smiling taking something from a standing man
+Image 310|Score: 1.4129| There are three elephants standing beside a pool of water. 
+Image 311|Score: 1.2092| A black cat sleeping on a white bedspread.
+Image 312|Score: 0.8551| A bunch of people skiing on the snow during the day.
+Image 313|Score: 1.6890| A group of people standing with luggage by their car
+Image 314|Score: 1.0565| a person in a sweater holding a cake over a paper plate
+Image 315|Score: -0.2186| Pictures with various shades of green are arranged in a grid pattern.
+Image 316|Score: 1.3038| Two tennis players talking on a tennis court
+Image 317|Score: 1.5652| Skiers are going down a steep slope on a cloudy day. 
+Image 318|Score: 1.7552| An old man is sleeping on a park bench.
+Image 319|Score: 0.6996| Three zebra standing on a road in a grassy field.
+Image 320|Score: 1.4198| a number of luggage bags piled on one another 
+Image 321|Score: -1.2428| a bird with a large sing span flying over trees
+Image 322|Score: 1.1263| a man is sitting in front of a small cake
+Image 323|Score: 1.8087| Two men holding oranges on a city street. 
+Image 324|Score: -0.4310| Two small airplanes parked on a lush green field.
+Image 325|Score: 0.5105| a line of toilets that are next to a wall
+Image 326|Score: 1.5682| The man squats down while surfing through a wave.
+Image 327|Score: 0.5625| That clock seems to be mounted on a building.
+Image 328|Score: 1.6324| A person walking while using a cellular phone.
+Image 329|Score: 1.8552| A girl sits at an outdoor table, there are lobsters in a bowl on the table, and trees and water in the background. 
+Image 330|Score: 0.0517| there are two giraffes standing very close to each other
+Image 331|Score: -0.1973| A young man wearing a ring adjusting his tie
+Image 332|Score: 0.7167| this is a table in the middle of a room
+Image 333|Score: 1.8354| a kid in jeans doing a skatboard trick down steps
+Image 334|Score: 0.0207| Two zebra stand next to a herd of antelope.
+Image 335|Score: 1.0063| Scantily clad couple in kitchen with pan of cookies.
+Image 336|Score: 1.3949| Two cows sitting in the grass under a tree.
+Image 337|Score: 1.0478| A close-up of headphones next to a keyboard on a desk.
+Image 338|Score: 1.5696| A motorcycle is parked in a parking garage. 
+Image 339|Score: 0.9671| A red-crested wood-pecker on a lichen covered tree.
+Image 340|Score: -0.0514| A surfboard rider rides a small sized wave.
+Image 341|Score: -0.8692| A white paper scibbled with blue ink near a computer keyboard.
+Image 342|Score: -0.3091| Couple walking past outdoor display racks of assorted clothing.
+Image 343|Score: 0.6134| A play of food next to a bowl of rice and chopsticks. 
+Image 344|Score: -0.8576| a plate of vegetables sits next to a trey of pizza 
+Image 345|Score: 0.9960| A table with a lamp next to apples sitting on top of each other.
+Image 346|Score: 0.3922| A few cows grazing in an open field.
+Image 347|Score: -1.5549| A photo of fruit is partially in color and partially in black and white.
+Image 348|Score: 0.9723| A woman exercising a brown horse in a riding ring.
+Image 349|Score: 1.1132| A cat sticking it's head out of a window behind flowers in a planter.
+Image 350|Score: 1.7661| A living room decorated for Halloween with a large window with closed blinds.
+Image 351|Score: 1.1086| Professional motorcycle racer in extreme lean on a race course.
+Image 352|Score: 0.7039| A surf board rider being pushes by ocean waves.
+Image 353|Score: 0.6518| A person riding a large wave in the ocean on a surfboard.
+Image 354|Score: 1.7740| A grey bird in the middle of a snow-covered ground
+Image 355|Score: 1.7972| A cat that is by a bicycle wheel.
+Image 356|Score: 0.4114| a brown and white dog a fence and a tree
+Image 357|Score: 0.1465| A group of people in ties are posing for a picture.
+Image 358|Score: -0.1365| a tall red bus is coming down some tracks
+Image 359|Score: -0.1444| two men standing in some sand walking up a hill
+Image 360|Score: 1.3404| A calf laying in an open field licking its nose.
+Image 361|Score: 1.7152| A woman holds a dog on her lap. 
+Image 362|Score: -0.4646| a black and white dog sitting on a red couch with pillows
+Image 363|Score: 0.2211| A car modified to be a boat on the water.
+Image 364|Score: -0.0549| A ten filled with a creepy punk rocker snowman smothered in purple lights.
+Image 365|Score: 0.0160| Various street signs in French outside of a building.
+Image 366|Score: 1.6914| A group of hikers watching a plane over a body of water.
+Image 367|Score: 1.9379| a small child watching an elephant behind a fence
+Image 368|Score: 1.3346| This is a painting of a cross country skier traveling up a slope at sunrise.
+Image 369|Score: 1.5171| The man is in his refrigerator looking for something to eat or drink
+Image 370|Score: -0.1240| A stoplight showing a green light in a city.
+Image 371|Score: 0.3721| A white plate topped with a pizza covered in toppings.
+Image 372|Score: 1.5444| a kid holding a cell phone on her ears
+Image 373|Score: 1.0105| Three cats that are sleeping on a bed.
+Image 374|Score: 1.2728| People sitting on small boats in the creek. 
+Image 375|Score: -0.4788| There s a van with grafting on thevoutsidevif the van
+Image 376|Score: 1.9398| A small vase with a few flowers is in the snow.
+Image 377|Score: 0.8532| A lovely appointed kitchen area with oval shaped island
+Image 378|Score: 1.6926| Black box or case on a bench in a public area.
+Image 379|Score: 0.5317| A polar bear is under water next to a rock wall.
+Image 380|Score: 1.2342| A bus is parked on a wet street
+Image 381|Score: -0.0910| A giraffe is standing next to a chain link fence.
+Image 382|Score: 1.4726| A corner of a rest room with a cookie and coffee.
+Image 383|Score: 0.2725| A sandwich that is sitting on a plate on a table.
+Image 384|Score: 1.5136| A red rose sitting on a vase filled with water.
+Image 385|Score: 0.0927| A plate with two slices of pizza on a table with another plate and glass.
+Image 386|Score: 0.6340| This is a baseball player trying to hit a ball
+Image 387|Score: 0.5358| a train traveling on an elevated train track.
+Image 388|Score: 0.8260| A woman wearing a seat belt with her hair up in the air.
+Image 389|Score: 0.4694| some bananas that are growing but still too ripe to harvest
+Image 390|Score: 1.5418| A person and a elephant by some trees.
+Image 391|Score: 1.6311| People all riding there bikes at night time .
+Image 392|Score: 0.9979| a man catching a frisbee in a field.
+Image 393|Score: 0.1574| A man skiing in the snow with large pine trees.
+Image 394|Score: -1.2297| A picture of something and it appears like food.
+Image 395|Score: 1.6963| A man in white shirt doing a trick on a skateboard.
+Image 396|Score: -0.2335| a man on skies is coming down a snowy slope
+Image 397|Score: 1.6767| a cup containing scissors, a pen, and a few eyeliner pencils
+Image 398|Score: 1.5147| Several young children flying a kite in a field.
+Image 399|Score: 1.0452| An oriental style room with tatami floor coverings.
+Image 400|Score: -0.0271| The driver holds the small dog out the car window while taking a reflective photo in the side mirror.
+Image 401|Score: 1.6307| A group of people sitting by blue building eating food.
+Image 402|Score: 0.0810| A clean, white bathroom with a walk-in shower.
+Image 403|Score: 0.2003| There are two fire trucks outside of a market
+Image 404|Score: 0.1736| A young man, who is dressed formally, is posing for the camera. 
+Image 405|Score: 0.4620| A bathroom is shown with a toilet, sink and bathtub.
+Image 406|Score: 1.3593| Three horse running in the grass in a open area.
+Image 407|Score: 1.1484| there is a sandwich that is cut in half in a bowl
+Image 408|Score: 0.1240| A frontal image of a jet airplane on a runway.
+Image 409|Score: 1.0562| A man and woman exchanging wedding vows outside.
+Image 410|Score: 1.8525| A yellow fire hydrant sitting in the middle of a bed of rocks.
+Image 411|Score: 1.1334| A young man surfs in a small blue wave.
+Image 412|Score: 0.6228| A man is on the court holding his racket. 
+Image 413|Score: 1.5267| A man stands next to a concrete wall.
+Image 414|Score: -0.1317| A rusted up park bench sitting in the middle of a park.
+Image 415|Score: -0.3932| A CAT SITTING ON A BOARD GAME THAT IS ON TOP OF A COFFEE TABLE
+Image 416|Score: 0.7237| Broccoli is in a bowl with a fork. 
+Image 417|Score: 1.7208| a big metal colander filled with navel oranges
+Image 418|Score: 0.9199| A giraffe standing next to a lush green forest.
+Image 419|Score: 1.2107| A bus with no roof has lots of seats in back.
+Image 420|Score: 0.9316| A woman sits on the edge of a purple bed that has a black canopy.
+Image 421|Score: 1.4891| A man has a dazed look while sitting on a toilet.
+Image 422|Score: 1.3061| Someone jumping in the air on their snowboard.
+Image 423|Score: 0.6932| Two giraffes standing in front of trees facing to the right.
+Image 424|Score: 0.2315| a tennis court that has a man with a racket
+Image 425|Score: 0.7134| A sea gull flying high in the sky on a clear day
+Image 426|Score: 0.2761| Two bunches of green bananas on banana trees.
+Image 427|Score: 0.5237| Table of food including carrots, peas, salad, corn, gravy, pies, bread
+Image 428|Score: -0.2285| A very tasty looking pizza with some toppings.
+Image 429|Score: -0.1455| a close up of a person operating a cell phone
+Image 430|Score: 0.3192| A malnourished horse is fitted with a sack over its mouth seemingly depicting animal abuse.
+Image 431|Score: 0.8622| a bunch of people at a table with food
+Image 432|Score: 1.3077| this is a group of people standing near a river
+Image 433|Score: 1.6856| A small box truck parked on a city street.
+Image 434|Score: 1.0122| A open stove with some food on the inside.
+Image 435|Score: -0.2036| A pair of scissors on top of a piece of paper on top of a rock.
+Image 436|Score: 1.4735| A train moving along some train tracks next to a tree.
+Image 437|Score: -0.1691| A dog, leaning against a laptop, looks gloomy. 
+Image 438|Score: 0.3629| A thin crust pizza served on a plate.
+Image 439|Score: 1.5340| A train traveling through a forest with tall trees.
+Image 440|Score: 0.3648| a tennis player hitting a tennis ball on a court
+Image 441|Score: 1.5689| a bunch of women serving hot dogs 
+Image 442|Score: 1.6034| A woman with dark makeup on holding a sandwich.
+Image 443|Score: 1.4433| People are standing on the baseball diamond in the grass and dirt.
+Image 444|Score: 1.4248| A girl in bikini standing with surfboard on the beach.
+Image 445|Score: -0.3204| A chair by a window in a living room
+Image 446|Score: 0.9382| A city bus on the street in front of buildings.
+Image 447|Score: 1.7869| A group of Navy men cutting a large sheet cake.
+Image 448|Score: 1.2380| this tabby cat is loving the attention she is getting from this man
+Image 449|Score: 0.8975| A brown stuffed teddy bear sitting on top of a couch.
+Image 450|Score: 0.8631| A baggage claim area with black suitcases on a baggage carousel.
+Image 451|Score: 1.5697| Floral vases on display some with oranges in a glass vase and a on a platter.
+Image 452|Score: 0.6300| A large bus driving down a city street.
+Image 453|Score: 1.4041| An abandoned toilet sits on the sidewalk next to a parking pay kiosk.
+Image 454|Score: 1.2918| Three people on an open field with a banner 
+Image 455|Score: 0.1618| Signs warn that parking is for residents only at certain times.
+Image 456|Score: 1.4685| A woman with blue hair posing in the mirror.
+Image 457|Score: 1.0344| Several young girls holding tennis racquets next to a man.
+Image 458|Score: -1.3020| A person with knee pads on standing on a skateboard.
+Image 459|Score: 1.1310| a cat laying in an open bag of luggage 
+Image 460|Score: 1.3317| THERE IS A BUNCH OF KIDS THAT ARE AT THE TABLE 
+Image 461|Score: 0.0309| a pole with street signs and a green light 
+Image 462|Score: -1.6336| Fruit market display of oranges with one cut open.
+Image 463|Score: 1.3504| A graffiti-ridden building in an urban setting, a fire hydrant at curbside.
+Image 464|Score: 1.0096| a toilet and some brown tiles on the floor and wall
+Image 465|Score: 1.7441| Two bear cubs wrestling in the grass by rocks
+Image 466|Score: 1.3386| A city street on a rainy day with people taking cover using umbrellas
+Image 467|Score: 0.9753| A cutting board with slices of peeled apple and a knife next to an apple and apple peels.
+Image 468|Score: 0.0606| a green phone booth and yellow fire hydrant on city street
+Image 469|Score: 1.5529| Three lit candles on a chocolate birthday cake. 
+Image 470|Score: 0.9460| This is a photo of traffic on a busy city highway. 
+Image 471|Score: 0.3379| A woman walking across a tennis court, swinging a tennis racket.
+Image 472|Score: 1.5013| A horse standing in a field of tall brush.
+Image 473|Score: 1.7372| A group of teenagers standing by a graffiti'd wall.
+Image 474|Score: -1.2090| A double sized transit bus followed by a double deck bus.
+Image 475|Score: 0.9605| a woman and two children are feeding some elephants
+Image 476|Score: 1.2570| A group of motorcycles, half with male riders in the street at a city intersection.
+Image 477|Score: 1.7574| A clock tower in the middle of a road. 
+Image 478|Score: 1.0828| Two people sitting on a motorcycle in the street next to a beach.
+Image 479|Score: 1.5576| People going about their day on a street in the Chinese district.
+Image 480|Score: -0.9168| A red stop/arret sign at a toll booth.
+Image 481|Score: 1.5197| A woman and her father hold hands in a park
+Image 482|Score: -0.6298| A woman prepares to hit a tennis ball.
+Image 483|Score: 0.1450| A very tall clock tower with a clock on the side of it.
+Image 484|Score: 0.1241| a bunch of kites in the shape of various animals in front of a misty beach with a group of people riding horses
+Image 485|Score: 1.9217| a young person standing next to a red fire hydrant
+Image 486|Score: 0.1987| A couple of sandwiches in a food basket
+Image 487|Score: 1.6052| A skiier jumps into the air in front of a huge audience.
+Image 488|Score: 0.5013| A man playing baseball has his arm extended
+Image 489|Score: 1.5159| A man lounges sitting backways on a motor bike reading.
+Image 490|Score: -0.0310| A couple of clocks that are on a building.
+Image 491|Score: 0.3032| Atv parked alongside rural roadway with trees lining landscape.
+Image 492|Score: 0.4578| A woman sitting next to a man on a bench.
+Image 493|Score: 1.3138| a bunch of things are outside of a clean white home
+Image 494|Score: -0.7447| A white bathroom with sink and shower cleaned.
+Image 495|Score: 1.5277| A keeper feeding a baby elephant with a milk bottle
+Image 496|Score: 1.8189| A black and white zebra stands next to a tree.
+Image 497|Score: 0.6309| A flock of sheep graze beneath trees in a green pasture filled with wildflowers.
+Image 498|Score: 0.0469| A snow field outside of a ski resort.
+Image 499|Score: 1.0322| a wooden bench sits on top of a grass hill 
+Image 500|Score: 1.5929| Woman in suggestive wear on her knees in a bed.
